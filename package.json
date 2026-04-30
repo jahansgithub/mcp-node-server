@@ -1,0 +1,16 @@
+{
+  "name": "mcp-node-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google-cloud/bigquery": "^7.3.0",
+    "@modelcontextprotocol/sdk": "0.6.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
